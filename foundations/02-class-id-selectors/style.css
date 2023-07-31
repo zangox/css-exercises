@@ -1,0 +1,18 @@
+.odd,
+.cool {
+    background-color: rgb(227, 158, 158);
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+#id {
+    color: rgb(00, 00, 255);
+    font-size: 36px;
+    font-weight: bold;
+}
+.cool {
+    font-size: 24px;
+}
+#green {
+    background-color: rgb(177, 238, 177);
+    font-size: 24px;
+    font-weight: bold;
+}
